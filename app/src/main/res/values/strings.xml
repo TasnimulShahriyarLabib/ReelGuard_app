@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ReelGuard</string>
+    <string name="service_description">ReelGuard watches the apps you choose, only to notice when a Reels/Shorts feed screen opens, and then takes you back. It never reads your messages, text or passwords, and nothing leaves your phone.</string>
+</resources>
